@@ -1,0 +1,1 @@
+this project is mainly used to study string in ES6 for typescript
