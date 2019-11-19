@@ -36,7 +36,11 @@
      * 类型定义文件（*.d.ts）
      * 
      * 类型定义文件用来帮助开发者在TypeScript中使用已有的javascript的工具包
+<<<<<<< HEAD
      * 例如：Jquery，chart
+=======
+     * 例如：Jquery
+>>>>>>> 3885fae56093baa40ba79d0dc7eb1ac008c5dbd5
      * 
      * 
      */
